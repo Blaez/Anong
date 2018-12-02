@@ -1,0 +1,24 @@
+[02/12/2018 01:13] ERROR red load_cogs 573: You need to run `pip3 install youtube_dl`
+Traceback (most recent call last):
+  File "red.py", line 570, in load_cogs
+    owner_cog._load_cog(extension)
+  File "C:\Users\marcu\Downloads\New folder (2)\Red-DiscordBot\cogs\owner.py", line 948, in _load_cog
+    self.bot.load_extension(mod_obj.__name__)
+  File "C:\Users\marcu\AppData\Local\Programs\Python\Python35\lib\site-packages\discord\ext\commands\bot.py", line 738, in load_extension
+    lib.setup(self)
+  File "C:\Users\marcu\Downloads\New folder (2)\Red-DiscordBot\cogs\audio.py", line 2532, in setup
+    raise RuntimeError("You need to run `pip3 install youtube_dl`")
+RuntimeError: You need to run `pip3 install youtube_dl`
+[02/12/2018 01:13] ERROR red load_cogs 573: You need the imgurpython module to use this.
+pip3 install imgurpython
+Traceback (most recent call last):
+  File "red.py", line 570, in load_cogs
+    owner_cog._load_cog(extension)
+  File "C:\Users\marcu\Downloads\New folder (2)\Red-DiscordBot\cogs\owner.py", line 948, in _load_cog
+    self.bot.load_extension(mod_obj.__name__)
+  File "C:\Users\marcu\AppData\Local\Programs\Python\Python35\lib\site-packages\discord\ext\commands\bot.py", line 738, in load_extension
+    lib.setup(self)
+  File "C:\Users\marcu\Downloads\New folder (2)\Red-DiscordBot\cogs\image.py", line 165, in setup
+    raise RuntimeError("You need the imgurpython module to use this.\n"
+RuntimeError: You need the imgurpython module to use this.
+pip3 install imgurpython

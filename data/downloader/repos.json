@@ -1,0 +1,70 @@
+{
+    "paddo-cogs" : {
+        "customroles" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\customroles\\customroles.py",
+            "folder" : "data\\downloader\\paddo-cogs\\customroles"
+        },
+        "goodreads" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\goodreads\\goodreads.py",
+            "folder" : "data\\downloader\\paddo-cogs\\goodreads"
+        },
+        "grenzpolizei" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\grenzpolizei\\grenzpolizei.py",
+            "folder" : "data\\downloader\\paddo-cogs\\grenzpolizei"
+        },
+        "invoice" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\invoice\\invoice.py",
+            "folder" : "data\\downloader\\paddo-cogs\\invoice"
+        },
+        "kill" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\kill\\kill.py",
+            "folder" : "data\\downloader\\paddo-cogs\\kill"
+        },
+        "lastfm" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\lastfm\\lastfm.py",
+            "folder" : "data\\downloader\\paddo-cogs\\lastfm"
+        },
+        "logtools" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\logtools\\logtools.py",
+            "folder" : "data\\downloader\\paddo-cogs\\logtools"
+        },
+        "maolmao" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\maolmao\\maolmao.py",
+            "folder" : "data\\downloader\\paddo-cogs\\maolmao"
+        },
+        "oweather" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\oweather\\oweather.py",
+            "folder" : "data\\downloader\\paddo-cogs\\oweather"
+        },
+        "schmeckles" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\schmeckles\\schmeckles.py",
+            "folder" : "data\\downloader\\paddo-cogs\\schmeckles"
+        },
+        "steam" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\steam\\steam.py",
+            "folder" : "data\\downloader\\paddo-cogs\\steam"
+        },
+        "url" : "https://github.com/PaddoInWonderland/PaddoCogs",
+        "wikipedia" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\paddo-cogs\\wikipedia\\wikipedia.py",
+            "folder" : "data\\downloader\\paddo-cogs\\wikipedia"
+        },
+        "youtube" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\paddo-cogs\\youtube\\youtube.py",
+            "folder" : "data\\downloader\\paddo-cogs\\youtube"
+        }
+    }
+}
